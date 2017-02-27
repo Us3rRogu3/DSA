@@ -1,0 +1,20 @@
+1 10
+cristian 80
+abbigail 7
+jonathan 21
+abdullah 800
+cristian 10
+adelaide 100
+jonathan 15
+prentice 2
+juliette 199
+kasandra 41
+2 5
+jonathan 15
+cristian 10
+cristian 80
+juliette 199
+kasandra 41
+3
+4
+-1
